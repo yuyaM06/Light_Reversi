@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Light_Reversi</string>
+    <string name="text_mode">ModeChange</string>
+    <string name="text_init">Init</string>
+    <string name="text_me">Me</string>
+    <string name="text_cpu">CPU</string>
+    <string name="point_me">0 point</string>
+    <string name="point_cpu">0 point</string>
+    <string name="light_num0">0</string>
+    <string name="light_num1">1</string>
+    <string name="light_num2">2</string>
+    <string name="light_num3">3</string>
+    <string name="light_num4">4</string>
+    <string name="light_num5">5</string>
+    <string name="light_num6">6</string>
+    <string name="light_num7">7</string>
+    <string name="light_num8">8</string>
+    <string name="light_num9">9</string>
+    <string name="light_num10">10</string>
+    <string name="light_num11">11</string>
+
+
+    <string name="text_rule">先攻：Red，後攻：Blue</string>
+
+</resources>
